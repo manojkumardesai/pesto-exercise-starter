@@ -1,0 +1,7 @@
+function cacheFunction() {
+  
+}
+
+export {
+  cacheFunction,
+};
